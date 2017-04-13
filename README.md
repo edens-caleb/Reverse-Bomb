@@ -1,7 +1,7 @@
 # Reverse-Bomb
-*a4p3.cpp is the code for my version.
-*bomb.exe in my binary
-*original.exe is the original binary
+* a4p3.cpp is the code for my version.
+* bomb.exe in my binary
+* original.exe is the original binary
 
 Compiled with: g++ a4p3.cpp
 
